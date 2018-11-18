@@ -5,7 +5,7 @@
 
 # 第二次作业
 1. 从本地工作区到远程仓库
-2. 先在本地工作区创一个文件，将文件传到Unstaged Chandes，然后通过Stage Changed下拉文件，通过Commit到暂存区，然后Push到本地仓库，确认Success后
+2. 先在本地工作区创一个文件，将文件传到Unstaged Chandes，然后点击Stage Changed将文件发到Stage Changed，通过Commit到暂存区，然后Push到本地仓库，确认Success后
 即可到远程仓库。
 3. 从远程仓库到本地工作区
 4. 先在远程仓库创一个文件，点击Reomte选择 fetch from origin到本地仓库，在点击Merge选择Local Merge即可到本地工作区。
